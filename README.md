@@ -1,1 +1,1 @@
-# codesoft-passward-generator
+# codsoft-passward-generator
